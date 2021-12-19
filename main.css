@@ -1,0 +1,64 @@
+.wrapper {
+    margin: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#header {
+    text-align: center;
+    border: solid 3px black;
+    width: 10rem;
+}
+h1 {
+    text-align: center;
+    position: static
+}
+
+p {
+    padding:2rem;
+    background-color: gray;
+    height: 3rem;
+    width: 20rem;
+    margin-left: 593px;
+}
+
+h4 {
+    font-size: 18pt;
+}
+
+.kai {
+    background-color: rgb(12, 187, 231);
+}
+#kai {
+    font-family: Arial;
+    font-size: 28pt;
+}
+#likes {
+    border: solid 3px black;
+}
+#dislikes {
+    border: solid 3px black;
+}
+
+.kira {
+    background-color: rgb(235, 235, 124);
+}
+#kira {
+    font-family: Arial;
+    font-size: 28pt;
+}
+#likes1 {
+    border: solid 3px black;
+}
+#dislikes1 {
+    border: solid 3px black;
+}
+
+img {
+    width: 40%;
+    height: 40%;
+    padding: 1rem;
+    border: solid 3px black;
+    align-items: center;
+    
+}
+
